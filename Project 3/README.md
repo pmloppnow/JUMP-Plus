@@ -1,4 +1,4 @@
-### Data Analysis and Visualization for Iris Data
+### Data Analysis and Visualization for Iris Flower Data
 The Jupyter Notebook uses the data from the csv file to create informative dataframes and graphs.
 
 ### Files:
