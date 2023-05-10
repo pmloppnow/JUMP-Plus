@@ -10,3 +10,5 @@ Repository for JUMP projects
 ### Project 4: Video Game Sales Data Analysis
 
 ### Project 5: Ecommerce Data Analysis
+
+### Project 6: Brazilian Forest Fires Data Analysis
